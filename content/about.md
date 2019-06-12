@@ -1,7 +1,6 @@
 ---
 title: "A little bit about myself..."
 date: 2019-06-12T14:08:48+02:00
-draft: true
 ---
 
 My career began about a decade ago in New York at a digital strategy & branding agency where I built websites and managed servers for our clients, in the days when Wordpress and jQuery dominated the web dev landscape and Rails was just starting to catch on.
