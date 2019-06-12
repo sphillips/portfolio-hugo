@@ -1,4 +1,4 @@
-baseURL = "http://seanbphillips.com/"
+baseURL = "https://seanbphillips.com/"
 languageCode = "en-us"
 title = "Sean Phillips | Musician, Web Developer"
 author = "Sean Phillips"
@@ -32,7 +32,7 @@ soundcloud = "12x12"
 
 ## Extras
 [params.extra]
-copyright = "© 2019 Sean Phillips. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2019 Sean Phillips. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = true
 socialmarkup = true
