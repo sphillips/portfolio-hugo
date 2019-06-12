@@ -9,7 +9,7 @@ theme = "hugo-goa"
 author = "Sean Phillips"
 intro = "Full-stack Web Developer"
 description = "Currently freelancing. Previously Head of Engineering @CareerFoundry."
-authorimage = "https://s3.amazonaws.com/seanbphillips.com/images/headshot.jpg"
+authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
