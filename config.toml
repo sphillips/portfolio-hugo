@@ -1,0 +1,50 @@
+baseURL = "http://seanbphillips.com/"
+languageCode = "en-us"
+title = "Sean Phillips | Musician, Web Developer"
+author = "Sean Phillips"
+theme = "hugo-goa"
+
+## Site Settings
+[params]
+author = "Sean Phillips"
+intro = "Full-stack Web Developer"
+description = "Currently freelancing. Previously Head of Engineering @CareerFoundry."
+authorimage = "https://s3.amazonaws.com/seanbphillips.com/images/headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "sphillips"
+instagram = "partsunknown"
+xing = "Sean_Phillips8"
+linkedin = "sean-phillips-2968315"
+#stackoverflow = "<username>"
+fivehundredpx = "phillipssb"
+#flickr = "sphill201"
+#youtube = "<username>"
+soundcloud = "12x12"
+#email = "seanbphillips@protonmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2019 Sean Phillips. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+
+## Main Menu
+# [[menu.main]]
+#     name = "blog"
+#     weight = 100
+#     identifier = "blog"
+#     url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
