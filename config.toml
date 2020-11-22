@@ -1,28 +1,28 @@
 baseURL = "https://seanbphillips.com/"
 languageCode = "en-us"
-title = "Sean Phillips | Freelance Web Developer"
+title = "Sean Phillips"
 author = "Sean Phillips"
-theme = "hugo-goa"
+theme = "hyde-hyde"
 
 ## Site Settings
 [params]
 author = "Sean Phillips"
-intro = "Full-stack Web Developer"
-description = "Currently freelancing. Previously Head of Engineering @CareerFoundry."
-authorimage = "headshot.jpg"
+# intro = "Full-stack Web Developer"
+# description = "Currently freelancing. Previously Head of Engineering @CareerFoundry."
+# authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
+description = "Travel & street photography"
 keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
 github = "sphillips"
 instagram = "partsunknown"
-xing = "Sean_Phillips8"
-linkedin = "sean-phillips-2968315"
+# xing = "Sean_Phillips8"
+# linkedin = "sean-phillips-2968315"
 #stackoverflow = "<username>"
 fivehundredpx = "phillipssb"
 #flickr = "sphill201"
@@ -43,3 +43,8 @@ socialmarkup = true
     identifier = "about"
     weight = 100
     url = "/about/"
+[[menu.main]]
+    name = "Photography"
+    identifier = "photography"
+    weight = 200
+    url = "/photography/"
